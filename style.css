@@ -1,0 +1,112 @@
+@font-face {
+    font-family: montserrat-regular;
+    src: url(../fonts/montserrat-regular.ttf);
+}
+@font-face {
+    font-family: montserrat-italic;
+    src: url(../fonts/montserrat-italic.ttf);
+}
+
+@font-face {
+    font-family: montserrat-bold;
+    src: url(../fonts/montserrat-bold.ttf);
+}
+
+@font-face {
+    font-family: montserrat-bolditalic;
+    src: url(../fonts/montserrat-bolditalic.ttf);
+}
+
+
+body {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #000000;
+    font-family: 'montserrat-regular', 'arial', sans-serif;
+    font-size: 36px;
+
+}
+
+h1 {
+font-style: normal;
+font-weight: bold;
+font-size: 70px;
+line-height: 85px;
+color: #FFFFFF;
+    width: 82%;
+}
+
+.hemepage-heder {
+    min-height: 1136px;
+     background-image: url(img/andrew-neel-fGvXxVxmTi8-unsplash%201.jpg);
+    padding: 0 73px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.title {
+    color: #F66C41;
+}
+main {
+    padding: 0 73px 0 113px;
+}
+.comment {
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+color: #BCBBBB;
+}
+
+.out {
+   text-decoration: line-through;
+}
+
+h2 {
+font-style: normal;
+font-weight: 500;
+font-size: 70px;
+line-height: 85px;
+
+color: #FFFFFF;
+
+
+}
+.hed{
+font-style: italic;
+font-weight: bold;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+}
+
+ul li {
+font-style: normal;
+font-weight: 500;
+line-height: 44px;
+color: #FFFFFF;
+
+
+}
+p {
+font-style: normal;
+font-weight: normal;
+line-height: 44px;
+color: #FFFFFF;
+}
+
+.link {
+font-style: normal;
+font-weight: 500;
+line-height: 44px;
+/* identical to box height */
+text-decoration-line: underline;
+color: #F66C41;
+
+
+}
